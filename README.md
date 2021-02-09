@@ -1,6 +1,13 @@
 # Todo
 
-# Installation
+## Installation
+
+**Install Python: Python is usually installed by default on most modern systems. To check what your currently have, open a terminal and run the following command:**
+   
+   ```
+   python3 --version
+   ```
+   
 **On Windows:**
 
    ```
